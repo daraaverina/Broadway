@@ -35,6 +35,14 @@ ul {
 p {
     font-size: 14px;
 }
-.contacts {
+footer p {
     line-height: 30px;
+}
+.bc-gray {
+    background-color: dimgray;
+    text-align: left;
+}
+span {
+    color: white;
+    font-size: 11px;
 }
