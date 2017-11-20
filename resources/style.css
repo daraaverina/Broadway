@@ -4,7 +4,6 @@ html{
 }
 .bg-picture {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-  background-position: center;
 }
 .white
 {
@@ -31,4 +30,11 @@ h3 {
 }
 ul {
     list-style: none;
+    line-height: 30px;
+}
+p {
+    font-size: 14px;
+}
+.contacts {
+    line-height: 30px;
 }
